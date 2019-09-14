@@ -1,3 +1,3 @@
 # Projeto
-Repositorio básico para estudos
+Repositorio para estudos
 alterando.... 
